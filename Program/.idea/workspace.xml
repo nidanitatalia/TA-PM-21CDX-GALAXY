@@ -5,6 +5,11 @@
       <config />
     </shared>
     <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_input_data.xml">
+        <config>
+          <theme>@style/Theme.TAPM21CDXGALAXY</theme>
+        </config>
+      </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
         <config>
           <theme>@style/Theme.TAPM21CDXGALAXY</theme>
@@ -17,7 +22,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec81a25e-dc5f-4b1e-861a-6f793d973b55" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_history.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_history.xml" afterDir="false" />
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_input_data.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_rounded_top.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_rounded_trans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_plane.png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_profile.png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_ship.png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_train.png.png" afterDir="false" />
+>>>>>>> f80f3bdd2402e6d8309d1b6e6d012a03453f915a
+>>>>>>> 9fc0f5f5dd7737b8676a6c28f46c91f1cb1cd08f
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,14 +82,31 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "Midya",
+<<<<<<< HEAD
+    "git-widget-placeholder": "Ella",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+<<<<<<< HEAD
+    "last_opened_file_path": "D:/TA-PM-21CDX-GALAXY/Program/app/src/main/res/layout",
+=======
     "last_opened_file_path": "D:/TA-PM-21CDX-GALAXY/Program",
+=======
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/TA-PM-21CDX-GALAXY/Program/app/src/main/res/drawable",
+>>>>>>> f80f3bdd2402e6d8309d1b6e6d012a03453f915a
+>>>>>>> 9fc0f5f5dd7737b8676a6c28f46c91f1cb1cd08f
     "settings.editor.selected.configurable": "AndroidSdkUpdater"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+<<<<<<< HEAD
+      <recent name="D:\TA-PM-21CDX-GALAXY\Program\app\src\main\res\layout" />
+=======
+      <recent name="D:\TA-PM-21CDX-GALAXY\Program\app\src\main\res\drawable" />
+>>>>>>> 9fc0f5f5dd7737b8676a6c28f46c91f1cb1cd08f
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\TA-PM-21CDX-GALAXY\Program\app\src\main\res\drawable" />
     </key>
