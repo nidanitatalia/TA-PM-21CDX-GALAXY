@@ -43,3 +43,13 @@
                     android:text="Selamat Datang"
                     android:textColor="@color/white"
                     android:textSize="16sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Azhar Rivaldi"
+                    android:textColor="@color/white"
+                    android:textSize="26sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
