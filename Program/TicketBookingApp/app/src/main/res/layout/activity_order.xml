@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".activity_order"
-    android:background="@drawable/bck"
+    android:background="@drawable/renameorder"
     >
     <ImageView
         android:id="@+id/imgProfile"
@@ -23,7 +23,7 @@
         android:id="@+id/etName"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:hint="@string/name"
+        android:hint="Name"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toTopOf="@+id/etDate"
         app:layout_constraintStart_toStartOf="parent"
@@ -40,7 +40,7 @@
         android:id="@+id/etDate"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:hint="@string/date"
+        android:hint="Date"
         android:focusable="true"
         android:clickable="true"
         app:layout_constraintTop_toBottomOf="@id/etName"
@@ -50,7 +50,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginStart="32dp"
         android:layout_marginEnd="32dp"
-        android:background="@android:color/transparent"
+        android:background="@android:color/white"
         android:padding="10dp"
         android:textColor="@android:color/black"/>
 
