@@ -2,18 +2,32 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp">
+    android:gravity="center_vertical"
+    android:padding="16dp"
+    android:background="@drawable/detailticket">
+
+    <ImageView
+
+        android:id="@+id/imageTicket"
+        android:layout_width="150dp"
+        android:layout_height="200dp"
+        android:src="@drawable/ticket"
+        android:layout_gravity="center"
+        android:contentDescription="Ticket Image" />
 
     <TextView
         android:id="@+id/tvTicketDetails"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Ticket Details"
-        android:textSize="18sp" />
+        android:textSize="18sp"
+        android:gravity="center" />
 
     <Button
         android:id="@+id/btnCancelTicket"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Cancel Ticket" />
+        android:text="Cancel Ticket"
+        android:gravity="center" />
+
 </LinearLayout>
