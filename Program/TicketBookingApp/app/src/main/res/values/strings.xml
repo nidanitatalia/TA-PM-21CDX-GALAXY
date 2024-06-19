@@ -1,5 +1,3 @@
 <resources>
     <string name="app_name">TicketBookingApp</string>
-    <string name="date">Date</string>
-    <string name="name">Name</string>
 </resources>
