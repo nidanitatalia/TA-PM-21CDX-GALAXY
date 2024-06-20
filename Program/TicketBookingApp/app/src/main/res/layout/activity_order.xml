@@ -11,3 +11,7 @@
         android:layout_width="200dp"
         android:layout_height="150dp"
         android:src="@drawable/ticket"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/etName"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
