@@ -51,3 +51,6 @@
         android:layout_marginTop="16dp"
         android:layout_marginStart="32dp"
         android:layout_marginEnd="32dp"
+        android:background="@android:color/white"
+        android:padding="10dp"
+        android:textColor="@android:color/black"/>
