@@ -5,3 +5,8 @@
     android:gravity="center_vertical"
     android:padding="16dp"
     android:background="@drawable/detailticket">
+    <ImageView
+
+        android:id="@+id/imageTicket"
+        android:layout_width="150dp"
+        android:layout_height="200dp"
