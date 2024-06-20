@@ -35,3 +35,11 @@
         android:background="@android:color/white"
         android:padding="10dp"
         android:textColor="@android:color/black"/>
+
+
+    <EditText
+        android:id="@+id/etDate"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="Date"
+        android:focusable="true"
