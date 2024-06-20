@@ -12,3 +12,4 @@
         android:layout_height="200dp"
         android:src="@drawable/ticket"
         android:layout_gravity="center"
+        android:contentDescription="Ticket Image" />
