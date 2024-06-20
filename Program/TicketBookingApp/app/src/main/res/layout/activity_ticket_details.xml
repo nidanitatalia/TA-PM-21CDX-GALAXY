@@ -21,3 +21,6 @@
         android:text="Ticket Details"
         android:textSize="18sp"
         android:gravity="center" />
+    <Button
+        android:id="@+id/btnCancelTicket"
+        android:layout_width="match_parent"
