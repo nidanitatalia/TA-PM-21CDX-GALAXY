@@ -54,3 +54,8 @@
         android:background="@android:color/white"
         android:padding="10dp"
         android:textColor="@android:color/black"/>
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Submit"
